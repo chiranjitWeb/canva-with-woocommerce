@@ -13,7 +13,7 @@ A powerful WordPress plugin that bridges WooCommerce and Canva. This plugin allo
 
 ## 🛠 Installation
 
-1.  **Upload:** Upload the `signco-canva-woo` folder to your `/wp-content/plugins/` directory.
+1.  **Upload:** Upload the `canva-with-woocommerce` folder to your `/wp-content/plugins/` directory.
 2.  **Activate:** Activate the plugin through the 'Plugins' menu in WordPress.
 3.  **Setup Pages:** * Create a page for the callback (e.g., `https://your-site.com/returnback`).
     * Create a "Processing" page and add the shortcode: `[canva_processing_screen]`.
